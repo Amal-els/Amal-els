@@ -2,71 +2,75 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Amal+Bahri;AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=40&color=2ecc71" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  💡 Turning data into insights • 🚀 Building intelligent systems
-</p>
+# 👋 Hi, I'm Amal Bahri
+
+**Software Engineering Student And AI Enthusiast**  
+💡 Turning data into insights • 🚀 Building intelligent systems
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Software engineering student
-- 🔍 Passionate about Machine Learning, AI & Data Analysis
-- 📈 Always exploring new technologies and ideas
+- 🎓 Software engineering Student @ INSAT
+- 🔍 Exploring agentic AI 
+- 🚀 Building projects and learning every day
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</p>
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+
+### Backend & Frameworks
+
+![.NET](https://img.shields.io/badge/-.NET-333?style=flat&logo=.net)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring)
+![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
+
+### Data & AI
+
+![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
+![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat)
+
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+![Qdrant](https://img.shields.io/badge/-Qdrant-333?style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat)
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=0f172a&ring=00F7FF&fire=8B5CF6&currStreakLabel=00F7FF)
 
 ---
 
 ## 🌐 Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amal-bahri-809557337/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-2ecc71?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+- [LinkedIn](https://www.linkedin.com/)  
+- [Portfolio](#)
+
+---
+
+⭐️ *Minimal. Clean. Always improving.*
