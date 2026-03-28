@@ -40,11 +40,15 @@
 
 ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=plotly)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![LangChain](https://img.shields.io/badge/-LangChain-333?style=flat)
+![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
+![Transformers](https://img.shields.io/badge/-Transformers-333?style=flat&logo=huggingface)
+![Gymnasium](https://img.shields.io/badge/-Gymnasium-333?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-0f172a?style=flat)
 
 
 ### Databases
@@ -52,11 +56,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=flat&logo=supabase)
 ![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
-![Qdrant](https://img.shields.io/badge/-Qdrant-333?style=flat)
-![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat)
-
+![Qdrant](https://img.shields.io/badge/-Qdrant-FF4F8B?style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb)
 
 ---
 
