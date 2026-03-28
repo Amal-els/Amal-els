@@ -5,13 +5,19 @@
 <p align="center">
   💡 Turning data into insights • 🚀 Building intelligent systems
 </p>
+
 ---
+
 ## 🧠 About Me
-* 🎓 Software engineering student
-* 🔍 Passionate about Machine learning, AI & Data Analysis
-* 📈 Always exploring new technologies and ideas
+
+- 🎓 Software engineering student
+- 🔍 Passionate about Machine Learning, AI & Data Analysis
+- 📈 Always exploring new technologies and ideas
+
 ---
+
 ## ⚙️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -41,14 +47,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
+
 ---
+
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true&background=00000000" height="150" alt="GitHub Streak" />
 </p>
+
 ---
+
 ## 🌐 Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/amal-bahri-809557337/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
