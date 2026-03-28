@@ -61,7 +61,7 @@
 ![Qdrant](https://img.shields.io/badge/-Qdrant-FF4F8B?style=flat)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333?style=flat&logo=mariadb)
 
-## 📡 Messaging & Queues
+### Messaging & Queues
 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333?style=flat&logo=rabbitmq)
 
