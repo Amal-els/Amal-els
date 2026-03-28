@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Software engineering Student @ INSAT
+- 🎓 Software engineering student @ INSAT
 - 🔍 Exploring agentic AI 
 - 🚀 Building projects and learning every day
 
@@ -75,7 +75,7 @@
 
 ## 🌐 Connect
 
-- [LinkedIn][(https://www.linkedin.com/in/amal-bahri-809557337)]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/amal-bahri-809557337)
 - [Portfolio](#)
 
 ---
