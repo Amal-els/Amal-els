@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Amal+Bahri;AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=40&color=2ecc71" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Amal+Bahri;AI+%26+Software+Engineering+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=40&color=2ecc71" alt="Typing SVG" />
 </div>
 
 <p align="center">
